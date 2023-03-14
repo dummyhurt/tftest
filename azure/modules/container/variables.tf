@@ -1,5 +1,5 @@
 ###
-variable "sa_name" {
+variable "c_sa_name" {
     type = string
 }
 
