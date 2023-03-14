@@ -12,7 +12,7 @@ variable "b_c_name" {
 
 variable "b_type" {
     type = string
-    default = "page"
+    default = "Page"
 }
 
 variable "b_source_uri" {
